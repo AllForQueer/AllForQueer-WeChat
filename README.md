@@ -5,3 +5,4 @@
 
 
 ### 2022
+[2022](https://github.com/AllForQueer/AllForQueer.github.io/tree/main/2022)
